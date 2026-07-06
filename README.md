@@ -31,6 +31,7 @@ src/
 ## Descripción breve de los paquetes
 
 `data`: contiene la clase GestorServicios, encargada de crear y almacenar servicios turísticos de prueba en una colección polimórfica de tipo List<ServicioTuristico>.
+
 `model`: contiene la jerarquía de clases que representa los servicios turísticos de Llanquihue Tour.
 
 `ui`: contiene la clase principal Main.java, encargada de ejecutar el programa, obtener la lista de servicios desde GestorServicios y mostrar los resultados por consola.
